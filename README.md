@@ -1,2 +1,1 @@
-# Organiza_Arquivos
- O "Organizador de Arquivos por Extensão" é um programa desenvolvido para organizar todos os seus arquivos
+O "Organizador de Arquivos por Extensão" é um programa desenvolvido em Python que oferece uma maneira intuitiva e eficiente de organizar arquivos em um diretório com base em suas extensões. O programa fornece uma interface gráfica amigável que permite aos usuários selecionar um diretório e, em seguida, automaticamente mover os arquivos para subpastas correspondentes de acordo com suas extensões.
